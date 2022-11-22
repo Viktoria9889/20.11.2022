@@ -364,7 +364,7 @@ margin: 5px 5px 5px 5px;
 	padding-right: 8px;
 }
 
-@media screen and (max-width: 1200px) and (min-width: 768px) {
+@media screen and (max-width: 1000px) and (min-width: 768px) {
 	
 	.header {
 		width: calc(100%/12*12);
@@ -434,7 +434,7 @@ margin: 5px 5px 5px 5px;
 		border: 1px solid #FFFFFF;
 		color: #C2C1C0;
 		border-radius: 3px;
-		width: calc(100%/12*10);
+		width: calc(100%/12*11);
 		height: 30px;
 	}
 
